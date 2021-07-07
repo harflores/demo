@@ -1,0 +1,36 @@
+[
+     {
+          "rut": 1,
+          "nombre": "Harold Flores",
+          "direccion": "Curico 1",
+          "isapre": "no"
+     },
+     {
+          "rut": 2,
+          "nombre": "Juan Martinez",
+          "direccion": "Curico 2",
+          "isapre": "si"
+
+     },
+     {
+          "rut": 3,
+          "nombre": "Francisca",
+          "direccion": "Curico 3",
+          "isapre": "no"
+
+     },
+     {
+          "rut": 4,
+          "nombre": "Mario",
+          "direccion": "Curico 4",
+          "isapre": "si"
+
+     },
+     {
+          "rut": 5,
+          "nombre": "Javier",
+          "direccion": "Curico 5",
+          "isapre": "no"
+
+     },
+]
